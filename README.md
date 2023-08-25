@@ -1,5 +1,5 @@
 
-![logo](https://github.com/KDPanchal97/KDPanchal97/blob/main/Profile-back.png)
+![logo](https://github.com/Kuntal97/Kuntal97/blob/main/Profile-back.png)
 <h1 align="center">Hi 👋, I'm Kuntal Panchal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
